@@ -1,0 +1,246 @@
+
+App Thinning Size Report for All Variants of Ewin
+
+Variant: Ewin-0533FC2A-A371-4033-896A-68B4D8975837.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-0888F624-FFD5-460B-9F4A-03C61E80E2C1.ipa
+Supported variant descriptors: [device: iPad4,9, os-version: 11.0], [device: iPad6,8, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad4,2, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad5,2, os-version: 11.0], [device: iPad5,4, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad4,8, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad4,1, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad4,6, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,7, os-version: 11.0], [device: iPad6,12, os-version: 11.0], and [device: iPad4,3, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-13857B66-E59E-4FD7-804A-25DAECC67115.ipa
+Supported variant descriptors: [device: iPad6,3, os-version: 11.0], [device: iPad7,3, os-version: 11.0], [device: iPad7,4, os-version: 11.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,2, os-version: 11.0], and [device: iPad6,4, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-1391C658-00BE-4C3C-9941-75602FE5CAE9.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-2DB6200A-B651-4070-80F5-51743F19A779.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,4, os-version: 12.0], and [device: iPad7,3, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-3AF960A1-7E2B-44CF-854A-8373190109F2.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], and [device: iPhone10,1, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-4533EE6F-6B34-4DE4-A779-66E128257355.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-4D25AE35-B7E0-446B-B165-6E78F6066310.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad11,7, os-version: 15.0], and [device: iPad7,12, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-4F05AAFA-E6EE-42DB-B358-CB68978BE427.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-4F41B16C-DADD-487D-BE16-AF9E8EC92E5C.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], and [device: iPhone10,5, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-5318362D-D25F-4FAE-8BF1-9A6575134F53.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-53990D85-374B-49A4-BABC-0E860080718C.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0] and [device: iPhone12,1, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-5601DC04-DA72-4B83-8588-66F927D56F34.ipa
+Supported variant descriptors: [device: iPad11,4, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad13,16, os-version: 15.0], and [device: iPad8,10, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-6566B86E-E2D5-4A91-9D23-2DA052E8E7F3.ipa
+Supported variant descriptors: [device: iPad7,2, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,4, os-version: 12.2], and [device: iPad8,2, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-8BA1D459-E5D5-4ECB-ACB2-C4DEAD934AE2.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], and [device: iPhone6,1, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-8BE4AE71-74F6-486C-946D-D2555D6AA387.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,3, os-version: 14.0], and [device: iPad5,1, os-version: 14.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-8D0D937A-FA8A-4120-9A23-D61FFB4B00BA.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 11.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone8,4, os-version: 11.0], [device: iPod7,1, os-version: 11.0], [device: iPhone6,2, os-version: 11.0], and [device: iPhone7,2, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-8F03A87F-03F6-4CCD-8AED-66706971739C.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], and [device: iPhone9,4, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-8F4600AD-C214-4D7E-9E24-FC8D8A60F409.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], and [device: iPhone10,4, os-version: 14.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-94F923DD-488E-4283-B685-3AAE7107A728.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], and [device: iPhone10,5, os-version: 13.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-9623AAAF-5D61-4CF9-B424-E268431F7B75.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], and [device: iPhone8,4, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-97082505-B924-4DBA-9581-1FB1B60E2DC5.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0] and [device: iPhone8,2, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-9B1BCFAE-F008-412E-999B-8E8039AF3787.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-A0774B7B-74AA-4C17-B5BA-F374DAE4667B.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 15.0], [device: iPhone8,1, os-version: 15.0], and [device: iPod9,1, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-A7D9C488-DC31-4F77-9599-0E06CE22E44E.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], and [device: iPhone11,4, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.4 MB uncompressed
+App size: 6.1 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-A8E4A41B-8D59-47E0-908A-6291E999A1BF.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 11.0] and [device: iPhone7,1, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-AD84D50A-31AE-449A-82F8-6320C36D0036.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone9,1, os-version: 11.0], and [device: iPhone10,4, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-B10CFE29-9893-44D1-81BD-7F647CA0789F.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 11.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone9,4, os-version: 11.0], and [device: iPhone10,2, os-version: 11.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-B9949011-C3F5-4731-8391-4AD00B9BEDF4.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], and [device: iPhone8,1, os-version: 14.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-BCB4935F-4464-4F02-A249-E36D8172D44C.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], and [device: iPhone10,1, os-version: 15.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-D7A89922-03F4-4A5B-9F17-89D15FA7BB06.ipa
+Supported variant descriptors: [device: iPad6,7, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad5,3, os-version: 12.2], and [device: iPad4,2, os-version: 12.2]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-D9D6497E-550B-4D73-8AC4-9FC7FCD51A35.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-DA3A8DAD-DA0B-4E7B-A30E-2B26A094725D.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad13,6, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad13,8, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad13,4, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad13,10, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,12, os-version: 14.0], and [device: iPad8,1, os-version: 14.0]
+App + On Demand Resources size: 6.1 MB compressed, 13.3 MB uncompressed
+App size: 6.1 MB compressed, 13.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin-FD49F8E6-B32E-47B7-943F-82AD5B64810D.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad6,8, os-version: 12.0], and [device: iPad5,1, os-version: 12.0]
+App + On Demand Resources size: 8.5 MB compressed, 20.4 MB uncompressed
+App size: 8.5 MB compressed, 20.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ewin.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 8.6 MB compressed, 20.5 MB uncompressed
+App size: 8.6 MB compressed, 20.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

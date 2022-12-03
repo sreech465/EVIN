@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ewin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C2D91F883326EFA3F7CCDA5802E02AAA3030E266</string>
+				<key>dateExpires</key>
+				<string>19/08/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.11.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C2D91F883326EFA3F7CCDA5802E02AAA3030E266</string>
+						<key>dateExpires</key>
+						<string>19/08/23</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>LY296M84JS</string>
+						<key>name</key>
+						<string>Enabling.Win Pte. Ltd.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.11.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LY296M84JS.com.enablingwin.prod</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LY296M84JS</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Ewin.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3b734ccf-9afa-4ae7-9e29-cba806832874</string>
+				<key>dateExpires</key>
+				<string>19/08/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.enablingwin.prod</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LY296M84JS</string>
+				<key>name</key>
+				<string>Enabling.Win Pte. Ltd.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
